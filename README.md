@@ -1,4 +1,4 @@
-# employeemanagement
+# Employee Management Portal
 Employee Management Portal
 
 A simple and secure web application used to manage employee records with clean workflows and an intuitive user interface. It demonstrates CRUD operations, authenticated access, and structured Java web development using JSP, Servlets, JDBC, and MySQL.
